@@ -4,7 +4,7 @@ const BLOG = {
     process.env.API_BASE_URL || 'https://www.notion.so/api/v3',
 
   NOTION_PAGE_ID:
-    process.env.NOTION_PAGE_ID || '324de380e932806980dccbf7d43a2717',
+    process.env.NOTION_PAGE_ID || '324de380e932802f88afeec4c6011385',
 
   // Giao diện và ngôn ngữ
   THEME: process.env.NEXT_PUBLIC_THEME || 'matery',
