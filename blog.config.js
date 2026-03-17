@@ -9,7 +9,7 @@ const BLOG = {
   // Giao diện và ngôn ngữ
   THEME: process.env.NEXT_PUBLIC_THEME || 'magzine',
   LANG: process.env.NEXT_PUBLIC_LANG || 'vi-VN',
-  SINCE: process.env.NEXT_PUBLIC_SINCE || 2026,
+  SINCE: process.env.NEXT_PUBLIC_SINCE || 2016,
 
   // Tối ưu hiển thị và cache
   PSEUDO_STATIC: process.env.NEXT_PUBLIC_PSEUDO_STATIC || false,
