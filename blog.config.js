@@ -7,7 +7,7 @@ const BLOG = {
     process.env.NOTION_PAGE_ID || '324de380e932802f88afeec4c6011385',
 
   // Giao diện và ngôn ngữ
-  THEME: process.env.NEXT_PUBLIC_THEME || 'matery',
+  THEME: process.env.NEXT_PUBLIC_THEME || 'commerce',
   LANG: process.env.NEXT_PUBLIC_LANG || 'vi-VN',
   SINCE: process.env.NEXT_PUBLIC_SINCE || 2026,
 
